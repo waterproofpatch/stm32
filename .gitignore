@@ -1,0 +1,9 @@
+blink
+blink.hex
+blink.o
+dump_hex
+startup.o
+stm32.code-workspace
+tags
+.DS_Store
+bin
