@@ -1,5 +1,7 @@
 # STM32
 
+For the STM32F411E Discovery board.
+
 Toy project.
 
 # Requirements
