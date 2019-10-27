@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [{
+        "type": "cortex-debug",
+        "request": "launch",
+        "servertype": "openocd",
+        "cwd": "${workspaceRoot}",
+        "executable": "./bin/program.elf",
+        "name": "Debug (OpenOCD)",
+        "device": "STM32F411E",
+        "configFiles": [
+            "board/stm32f4discovery.cfg"
+        ]
+    }]
+}
