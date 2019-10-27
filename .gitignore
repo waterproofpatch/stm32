@@ -7,3 +7,5 @@ stm32.code-workspace
 tags
 .DS_Store
 bin
+.vscode/.cortex-debug.peripherals.state.json
+.vscode/.cortex-debug.registers.state.json
